@@ -3,7 +3,7 @@
     "path": "~/Heart desease project/heart report.Rmd",
     "project_path": "heart report.Rmd",
     "type": "r_markdown",
-    "hash": "1934449900",
+    "hash": "1256422510",
     "contents": "",
     "dirty": false,
     "created": 1623937422904.0,
@@ -12,19 +12,19 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "257,6",
-        "scrollLine": "250",
+        "cursorPosition": "478,19",
+        "scrollLine": "463",
         "rmdVisualMode": "false",
         "rmdVisualModeLocation": "5463:2760",
         "rmdVisualWrapConfigured": "true",
         "docOutlineVisible": "1"
     },
     "folds": "",
-    "lastKnownWriteTime": 1624313097,
+    "lastKnownWriteTime": 1624313549,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1624313097979,
+    "last_content_update": 1624313549438,
     "read_only": false,
     "read_only_alternatives": []
 }

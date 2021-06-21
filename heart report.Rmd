@@ -472,11 +472,11 @@ A quick overview of the graphics show that there is a great correlation between
 the predictors and the predicted variable, which indicates that is viable to make
 predictions through machine learning.
 
-The accuracy of the models on the test set are as follow: logistic regression `r print(glm_acc)`,
-decision tree `r print(rpart_acc)`, random forest `r print(forest_acc)`, ensemble `r print(ens_acc)`.
-The results of the models in the validation sets were as follow: ensemble `r print(final_accs[1])`,
-logistic regression `r print(final_accs[2])`, decision tree `r print(final_accs[3])`,
-random forest `r print(final_accs[4])`.
+The accuracy of the models on the test set are as follow: logistic regression 0.85,
+decision tree 0.78, random forest 0.81, ensemble 0.85.
+The results of the models in the validation sets were as follow: ensemble 0.9,
+logistic regression 0.9, decision tree 0.867,
+random forest 0.933.
 
 
 
